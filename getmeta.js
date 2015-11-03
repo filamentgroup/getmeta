@@ -16,4 +16,4 @@
   if( typeof module !== "undefined" ){
   	module.exports = w.getMeta;
   }
-}( this ));
+}( typeof global !== "undefined" ? global : this ));
