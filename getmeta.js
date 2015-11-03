@@ -9,7 +9,7 @@
   			break;
   		}
   	}
-  	return meta.content;
+  	return meta && meta.content;
   };
   
   // commonjs
