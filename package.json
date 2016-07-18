@@ -2,7 +2,7 @@
   "name": "fg-getmeta",
   "title": "enhance",
   "description": "A small function to get a meta tag's content attr value by its name.",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "homepage": "https://github.com/filamentgroup/getmeta",
   "author": {
     "name": "Scott Jehl",
